@@ -4,7 +4,7 @@ import Button from './Button'
 function Showcase() {
     return (
         <div className="showcase">
-            <img src={background} alt=""/>
+            <div className="showcase-image"></div>
             <div className="showcase-text">
                 <div className="showcase-title">
                     Welcome to Plantopedia
